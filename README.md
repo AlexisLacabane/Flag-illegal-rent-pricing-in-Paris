@@ -17,17 +17,22 @@ This conclusion is coherent with recent article published in the LeParisien stat
 ## Documents
 
 - Regulation.xlsx : Documentation on max limit per size and district
-- SeLoger_Web_Scraping.py: Code on Spyder using HTML web scraping methodology and a Pipeline
+- SeLoger_Web_Scraping.py: Code on Spyder using HTML web scraping and Pipeline methodologies
 - Watch_list.txt : Recording links not respecting reference price set by Paris ALUR regulation
 
 ## Initialise
 
 1. Modify headers with your own REQUEST HEADERS by doing the following:
-![](Request_Headers.gif)
+
+![](/Media/Request_Headers.gif)
 
 2. Modify in SeLoger_Web_Scraping.py the number of pages you want to web scrap:
-![](Code_Screenshot.jpg)
+
+![](/Media/Code_Screenshot.jpg)
 
 
 ## You Run It, You Get It !
 From your terminal, run the file and get your Watch_list.txt send out to your file ! 
+You can also choose to open your browser and open all links (do not use it if you web scrap 50 pages)
+
+![](/Media/Execute_code.gif)
