@@ -23,7 +23,7 @@ This conclusion is coherent with recent article published in the LeParisien stat
 ## Initialise
 
 1. Modify headers with your own REQUEST HEADERS by doing the following:
-![](http://g.recordit.co/d8QEL1C5Tp.gif)
+![](Request_Headers.gif)
 
 2. Modify in SeLoger_Web_Scraping.py the number of pages you want to web scrap:
 ![](Code_Screenshot.jpg)
