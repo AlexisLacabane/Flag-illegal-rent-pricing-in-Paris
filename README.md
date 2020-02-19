@@ -7,8 +7,8 @@ The general principle of this framework was to define a maximum value of rent pe
 
 ## Tool
 
-![](/Media/P_logo.jpeg=10*10)
-![](/Media/Spyder_logo.jpeg=10*10)
+![](/Media/P_logo.jpeg)
+![](/Media/Spyder_logo.jpg)
 
 ## Purpose
 
