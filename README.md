@@ -5,7 +5,7 @@ As my first project, I decided to web scrap https://seloger.com (1st website for
 
 The general principle of this framework was to define a maximum value of rent per m² applicable to new signed leases, called increased reference rent or “max limit”
 
-## Tool
+## Tools
 
 ![](/Media/P_logo.png)
 ![](/Media/Spyder_logo.png)
